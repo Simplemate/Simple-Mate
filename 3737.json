@@ -1,7 +1,18 @@
 
 
 
-[ 
+[ {
+    "link": "https://html5.gamedistribution.com/851373725cf54ad4a00588e580346512/?gd_sdk_referrer_url=https://gamedistribution.com/games/2248-blast/",
+    "thumb": "https://img.gamedistribution.com/851373725cf54ad4a00588e580346512-512x384.jpg",
+    "title": "2248 Blast",
+    "category": "Puzzle"
+  },
+{
+    "link": "https://html5.gamedistribution.com/055561e9c9da4e69b8a724d06500fdd6/?gd_sdk_referrer_url=https://gamedistribution.com/games/2048-mayhem.io",
+    "thumb": "https://img.gamedistribution.com/055561e9c9da4e69b8a724d06500fdd6-512x384.jpg",
+    "title": "2048 Mayhem.io",
+    "category": "Merge"
+  },
 {
     "link": "https://html5.gamedistribution.com/50d154abb6c5483b847cbeea848e73ff/?gd_sdk_referrer_url=https://gamedistribution.com/games/wave-dash/",
     "thumb": "https://img.gamedistribution.com/50d154abb6c5483b847cbeea848e73ff-512x384.jpg",
