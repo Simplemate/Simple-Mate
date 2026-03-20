@@ -2,6 +2,61 @@
 
 
 [ 
+{
+    "link": "https://html5.gamedistribution.com/d91602efd33a46d59afe4eea53f6eacf/?gd_sdk_referrer_url=https://gamedistribution.com/games/magic-bottles/",
+    "thumb": "https://img.gamedistribution.com/d91602efd33a46d59afe4eea53f6eacf-1280x720.jpg",
+    "title": "Magic Bottles",
+    "category": "Puzzle"
+  },
+{
+    "link": "https://html5.gamedistribution.com/72ef728fe63d48b4a44a97947d5bff3c/?gd_sdk_referrer_url=https://gamedistribution.com/games/block-team-deathmatch/",
+    "thumb": "https://img.gamedistribution.com/72ef728fe63d48b4a44a97947d5bff3c-1280x720.jpg",
+    "title": "Block Team Deathmatch",
+    "category": "Battle Shooter"
+  },
+{
+    "link": "https://html5.gamedistribution.com/cecfade6d8ef4fb7a4b1924452da4204/?gd_sdk_referrer_url=https://gamedistribution.com/games/gt-traffic-racer/",
+    "thumb": "https://img.gamedistribution.com/cecfade6d8ef4fb7a4b1924452da4204-512x384.jpg",
+    "title": "GT Traffic Racer",
+    "category": "Driving & Racing"
+  },
+{
+    "link": "https://html5.gamedistribution.com/22c23c982349439294e9a3d0d55b7a76/?gd_sdk_referrer_url=https://gamedistribution.com/games/vortex-ball/",
+    "thumb": "https://img.gamedistribution.com/22c23c982349439294e9a3d0d55b7a76-200x120.jpg",
+    "title": "Vortex Ball",
+    "category": "Casual"
+  },
+{
+    "link": "https://html5.gamedistribution.com/2cd5c52340d643f5b66e185bb768786e/?gd_sdk_referrer_url=https://gamedistribution.com/games/flowball/",
+    "thumb": "https://img.gamedistribution.com/2cd5c52340d643f5b66e185bb768786e-512x384.jpg",
+    "title": "FlowBall",
+    "category": "Ball color"
+  },
+{
+    "link": "https://html5.gamedistribution.com/c00a2f81678f4497948836ac0e48fa7a/?gd_sdk_referrer_url=https://gamedistribution.com/games/idle-pinball-merge-clicker/",
+    "thumb": "https://img.gamedistribution.com/c00a2f81678f4497948836ac0e48fa7a-512x384.jpg",
+    "title": "Idle PinBall ",
+    "category": "Puzzle"
+  },
+{
+    "link": "https://html5.gamedistribution.com/dee2113b932e40c69a09dc03e9cea275/?gd_sdk_referrer_url=https://gamedistribution.com/games/traffic-tap-survival/",
+    "thumb": "https://img.gamedistribution.com/dee2113b932e40c69a09dc03e9cea275-512x384.jpg",
+    "title": "Traffic Tap Survival",
+    "category": "Puzzle"
+  },
+{
+    "link": "https://html5.gamedistribution.com/f312653358ec4c959a68e43bef2b72c6/?gd_sdk_referrer_url=https://gamedistribution.com/games/slippery-drift-racing/",
+    "thumb": "https://img.gamedistribution.com/f312653358ec4c959a68e43bef2b72c6-512x384.jpg",
+    "title": "Slippery Drift Racing",
+    "category": "Racing & Driving"
+  },
+
+{
+    "link": "https://img.gamedistribution.com/b25e864c4aae4d21af2a31ecc01c3759-512x384.jpg",
+    "thumb": "https://html5.gamedistribution.com/b25e864c4aae4d21af2a31ecc01c3759/?gd_sdk_referrer_url=https://gamedistribution.com/games/arrow-slide-puzzle/",
+    "title": "Arrow Slide Puzzle",
+    "category": "Puzzle"
+  },
     {
     "link": "https://html5.gamedistribution.com/b3432cc59437485f8239574bd4150856/?gd_sdk_referrer_url=https://gamedistribution.com/games/thread-sort/",
     "thumb": "https://img.gamedistribution.com/b3432cc59437485f8239574bd4150856-512x512.jpg",
